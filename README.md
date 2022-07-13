@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DeeterCesler
-- 💸 I’m interested in startups, Node + React, restructuring financial markets, and being a brogrammer
-- ⚡ I’m currently learning about building on the Lightning Network ₿
-- 🤝 I’m looking to collaborate on a fun open-source project
+- Hi, I’m Deeter.
+- 💸 I’m interested in startups, Node + React, and being a brogrammer
+- 🦀 Currently learning Rust
+- See the latest I'm up to on [deetercesler.com/now](https://deetercesler.com/now)
 - 🐦 Reach me on twitter [@DeeterCesler](twitter.com/DeeterCesler) or [email](mailto:me+github@deetercesler.com)
 
 <!---

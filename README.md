@@ -1,6 +1,6 @@
 - Hi, I’m Deeter.
 - 💸 I’m interested in startups, Node + React, and being a brogrammer
-- 🦀 Currently learning Rust
+- 🪽 Currently learning Flutter
 - See the latest I'm up to on [deetercesler.com/now](https://deetercesler.com/now)
 - 🐦 Reach me on twitter [@DeeterCesler](twitter.com/DeeterCesler) or [email](mailto:me+github@deetercesler.com)
 
